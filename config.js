@@ -1,9 +1,9 @@
 let fs = require('fs')                    //CREATOR = GEMPY , DEVBOT
 let chalk = require('chalk')
 global.owner = [
-  ['62882005531015'],
-  ['62882005531015'],
-  ['62882005531015', 'gen', true]  
+  ['6283817107067'],
+  ['6283817107067'],
+  ['6283817107067', 'gen', true]  
   
 ] 
 global.ownername = [['Adnan']]
